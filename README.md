@@ -4,8 +4,9 @@ Conventions, Standards, Tools and Workflows for publishing LangDoc corpus data u
 ## Description
 
 ## Active collaborators
-* Michael Rießler (Freiburg)
+* Dmitri Levchenko (Syktyvkar)
 * Niko Partanen (Paris)
+* Michael Rießler (Freiburg)
 * Ruprecht von Waldenfels (Oslo)
 * Joshua Wilbur (Freiburg)
 
