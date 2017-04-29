@@ -1,5 +1,5 @@
 # SpoCo
-Conventions, Standards, Tools and Workflows for publishing LangDoc corpus data using the SpoCo tool
+Conventions, Standards, Tools and Workflows for Publishing LangDoc Corpus Data Using the SpoCo Tool
 
 ## Description
 SpoCo is…
